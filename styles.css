@@ -58,15 +58,16 @@ margin-bottom: 10px;
 }
 
 .bg-yellow {
-  background: #fff9dc;
+  background: #99ceff;
 }
 
 .bg-red {
-  background: #ffe5e5;
+  background:#87CEEB ;
 }
 
-.bg-green {
-  background: #ddffd3;
+.bg-blue {
+  background:rgba(27, 41, 90, 1);
+  color: #fff;
 }
 
 a {
@@ -193,3 +194,4 @@ a:visited {
     outline: none;
     font-family: inherit;
   }
+  
